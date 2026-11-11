@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Elian Campos, software developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101f2a"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#263747" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".5"/>
+<circle cx="49" cy="38" r="7" fill="#ff6b6b"/><circle cx="73" cy="38" r="7" fill="#f7c66f"/><circle cx="97" cy="38" r="7" fill="#4bd4a0"/>
+<text x="45" y="94" font-family="monospace" font-size="21" fill="#59d9b3">~/profile $ whoami</text>
+<text x="45" y="169" font-family="Arial, sans-serif" font-size="61" font-weight="700" fill="#edf5fa">Elian Campos</text>
+<text x="48" y="214" font-family="monospace" font-size="23" fill="#9ab3c4">Software Developer  /  Backend &amp; Full Stack</text>
+<text x="48" y="259" font-family="monospace" font-size="17" fill="#59d9b3">Building software. Understanding systems.</text>
+<rect x="1008" y="73" width="135" height="135" rx="16" fill="#132e38" stroke="#2b5a61"/><text x="1034" y="154" font-family="monospace" font-size="51" fill="#59d9b3">&lt;/&gt;</text>
+<rect x="457" y="242" width="9" height="21" fill="#59d9b3"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.15s" repeatCount="indefinite"/></rect>
+</svg>
