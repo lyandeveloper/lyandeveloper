@@ -21,7 +21,7 @@ jobs:
           card: stats
           options: username=lyandeveloper&show_icons=true&theme=github_dark&hide_border=true
           path: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate languages
         uses: readme-tools/github-readme-stats-action@v1
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=lyandeveloper&layout=compact&theme=github_dark&hide_border=true
           path: assets/languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit generated cards
         run: |
